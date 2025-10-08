@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TmkStoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2429533cb8058b7c83ee63d7a96379a8605c4b59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cdaa9c1deb46ced10deaf3d31b0fdd2a52b785a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TmkStoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TmkStoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
