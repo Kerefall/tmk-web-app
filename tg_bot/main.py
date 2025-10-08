@@ -3,7 +3,7 @@ import asyncio
 from aiogram import Bot, Dispatcher
 from config_data.config import Config, load_config
 from handlers import first_handlers
-
+from handlers.admin_panel import router as admin_router   
 
 # Функция конфига и запуска бота
 async def main():
@@ -18,6 +18,7 @@ async def main():
     # Регистрируем роутеры в диспетчере
     dp.include_router(first_handlers.router)
 
+    dp.include_router(admin_router)
 
     # Пропускаем накопившиеся апдейты и запускаем пуллинг
     await bot.delete_webhook(drop_pending_updates=False)
