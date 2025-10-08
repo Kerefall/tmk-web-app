@@ -3,37 +3,15 @@
   "WorkspaceRootPath": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9846368-C906-4BD4-868A-674281FA5DD3}|..\\TmkStore.Application\\TmkStore.Application.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.application\\services\\nomenclatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9846368-C906-4BD4-868A-674281FA5DD3}|..\\TmkStore.Application\\TmkStore.Application.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.application\\services\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\models\\nomenclature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\models\\pipetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\configurations\\remnantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\entities\\remnantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\contracts\\nomenclatureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:contracts\\nomenclatureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\tmkstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\tmkstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:tmkstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -45,6 +23,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9846368-C906-4BD4-868A-674281FA5DD3}|..\\TmkStore.Application\\TmkStore.Application.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.application\\services\\pipetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9846368-C906-4BD4-868A-674281FA5DD3}|..\\TmkStore.Application\\TmkStore.Application.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.application\\services\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\abstractions\\ipipetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -62,6 +43,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\abstractions\\ipipetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\models\\nomenclature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\models\\pipetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,6 +109,10 @@
       "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:contracts\\nomenclaturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\contracts\\nomenclatureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:contracts\\nomenclatureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstoreapi\\contracts\\productsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4378700A-1A98-4D7D-A36D-9657A600C2D2}|TmkStoreAPI.csproj|solutionrelative:contracts\\productsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,6 +121,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\abstractions\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9846368-C906-4BD4-868A-674281FA5DD3}|..\\TmkStore.Application\\TmkStore.Application.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.application\\services\\nomenclatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD8DD214-BF6A-4FC7-9172-9491B9CD298A}|..\\TmkStore.Core\\TmkStore.Core.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.core\\abstractions\\iremnantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -183,6 +177,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\entities\\stockentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\configurations\\remnantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\entities\\remnantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05D16806-B627-44C9-A0E5-621B4326AF9C}|..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj|d:\\projects\\tmk-web-app\\backend\\tmkstore.dataaccess\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -248,72 +248,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NomenclatureResponse.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\NomenclatureResponse.cs",
-              "RelativeDocumentMoniker": "Contracts\\NomenclatureResponse.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\NomenclatureResponse.cs",
-              "RelativeToolTip": "Contracts\\NomenclatureResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PipeTypeRequest.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\PipeTypeRequest.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeRequest.cs",
+              "RelativeToolTip": "Contracts\\PipeTypeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:16:34.017Z",
+              "WhenOpened": "2025-10-08T11:50:42.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PipeTypeResponse.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\PipeTypeResponse.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeResponse.cs",
+              "RelativeToolTip": "Contracts\\PipeTypeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:50:26.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PipeTypeRepository.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
+              "RelativeToolTip": "..\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:09:52.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RemnantEntity.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
-              "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:57:24.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RemnantConfiguration.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
-              "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:57:57.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PipeType.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\PipeType.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.Core\\Models\\PipeType.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\PipeType.cs",
-              "RelativeToolTip": "..\\TmkStore.Core\\Models\\PipeType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:37:01.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Nomenclature.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\Nomenclature.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.Core\\Models\\Nomenclature.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\Nomenclature.cs",
-              "RelativeToolTip": "..\\TmkStore.Core\\Models\\Nomenclature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:37:32.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PriceService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\PriceService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\PriceService.cs",
@@ -326,58 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NomenclatureService.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\NomenclatureService.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\NomenclatureService.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\NomenclatureService.cs",
-              "RelativeToolTip": "..\\TmkStore.Application\\Services\\NomenclatureService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:21:34.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:58:40.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TmkStoreDbContext.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
-              "RelativeToolTip": "..\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:39:04.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TmkStoreAPI.csproj",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\TmkStoreAPI.csproj",
-              "RelativeDocumentMoniker": "TmkStoreAPI.csproj",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\TmkStoreAPI.csproj",
-              "RelativeToolTip": "TmkStoreAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T00:12:18.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -385,47 +308,51 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-08T10:03:42.564Z"
+              "WhenOpened": "2025-10-08T10:03:42.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PipeTypeRepository.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
-              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
-              "RelativeToolTip": "..\\TmkStore.DataAccess\\Repositories\\PipeTypeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:09:52.331Z"
+              "WhenOpened": "2025-10-07T23:58:40.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PipeTypeResponse.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeResponse.cs",
-              "RelativeDocumentMoniker": "Contracts\\PipeTypeResponse.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeResponse.cs",
-              "RelativeToolTip": "Contracts\\PipeTypeResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TmkStoreAPI.csproj",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\TmkStoreAPI.csproj",
+              "RelativeDocumentMoniker": "TmkStoreAPI.csproj",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\TmkStoreAPI.csproj",
+              "RelativeToolTip": "TmkStoreAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T00:12:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TmkStoreDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
+              "RelativeToolTip": "..\\TmkStore.DataAccess\\TmkStoreDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:50:26.638Z"
+              "WhenOpened": "2025-10-07T21:39:04.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PipeTypeRequest.cs",
-              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeRequest.cs",
-              "RelativeDocumentMoniker": "Contracts\\PipeTypeRequest.cs",
-              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PipeTypeRequest.cs",
-              "RelativeToolTip": "Contracts\\PipeTypeRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:50:42.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "PipeTypeController.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Controllers\\PipeTypeController.cs",
               "RelativeDocumentMoniker": "Controllers\\PipeTypeController.cs",
@@ -433,11 +360,12 @@
               "RelativeToolTip": "Controllers\\PipeTypeController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAADwv1YAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:51:05.905Z"
+              "WhenOpened": "2025-10-08T11:51:05.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "IPipeTypeService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IPipeTypeService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IPipeTypeService.cs",
@@ -445,11 +373,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IPipeTypeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:51:36.189Z"
+              "WhenOpened": "2025-10-08T11:51:36.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "PipeTypeService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\PipeTypeService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\PipeTypeService.cs",
@@ -457,11 +386,25 @@
               "RelativeToolTip": "..\\TmkStore.Application\\Services\\PipeTypeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:51:58.943Z"
+              "WhenOpened": "2025-10-08T11:51:58.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
+              "Title": "Nomenclature.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\Nomenclature.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.Core\\Models\\Nomenclature.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\Nomenclature.cs",
+              "RelativeToolTip": "..\\TmkStore.Core\\Models\\Nomenclature.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwFAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:37:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IPipeTypeRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IPipeTypeRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IPipeTypeRepository.cs",
@@ -469,11 +412,25 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IPipeTypeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:23:13.036Z"
+              "WhenOpened": "2025-10-08T11:23:13.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
+              "Title": "PipeType.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\PipeType.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.Core\\Models\\PipeType.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\PipeType.cs",
+              "RelativeToolTip": "..\\TmkStore.Core\\Models\\PipeType.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:37:01.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "PriceController.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Controllers\\PriceController.cs",
               "RelativeDocumentMoniker": "Controllers\\PriceController.cs",
@@ -481,11 +438,12 @@
               "RelativeToolTip": "Controllers\\PriceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:35:50.265Z"
+              "WhenOpened": "2025-10-08T11:35:50.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "PriceRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\PriceRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Repositories\\PriceRepository.cs",
@@ -493,11 +451,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Repositories\\PriceRepository.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwL8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:07:09.822Z"
+              "WhenOpened": "2025-10-08T11:07:09.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 18,
               "Title": "IPriceService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IPriceService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IPriceService.cs",
@@ -505,11 +464,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IPriceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:36:13.357Z"
+              "WhenOpened": "2025-10-08T11:36:13.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 16,
               "Title": "Price.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Models\\Price.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Models\\Price.cs",
@@ -517,11 +477,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Models\\Price.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAuwBEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:40:04.407Z"
+              "WhenOpened": "2025-10-08T10:40:04.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "IStockRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IStockRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IStockRepository.cs",
@@ -529,11 +490,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IStockRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:23:21.037Z"
+              "WhenOpened": "2025-10-08T11:23:21.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
               "Title": "PriceRequest.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PriceRequest.cs",
               "RelativeDocumentMoniker": "Contracts\\PriceRequest.cs",
@@ -541,11 +503,12 @@
               "RelativeToolTip": "Contracts\\PriceRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:35:24.974Z"
+              "WhenOpened": "2025-10-08T11:35:24.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 20,
               "Title": "PriceResponse.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\PriceResponse.cs",
               "RelativeDocumentMoniker": "Contracts\\PriceResponse.cs",
@@ -553,11 +516,12 @@
               "RelativeToolTip": "Contracts\\PriceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:35:02.608Z"
+              "WhenOpened": "2025-10-08T11:35:02.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 21,
               "Title": "RemnantController.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Controllers\\RemnantController.cs",
               "RelativeDocumentMoniker": "Controllers\\RemnantController.cs",
@@ -565,11 +529,12 @@
               "RelativeToolTip": "Controllers\\RemnantController.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAwwIkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:31:54.056Z"
+              "WhenOpened": "2025-10-08T11:31:54.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 23,
               "Title": "RemnantService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\RemnantService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\RemnantService.cs",
@@ -577,11 +542,12 @@
               "RelativeToolTip": "..\\TmkStore.Application\\Services\\RemnantService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:32:43.596Z"
+              "WhenOpened": "2025-10-08T11:32:43.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 24,
               "Title": "IRemnantService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IRemnantService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IRemnantService.cs",
@@ -589,11 +555,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IRemnantService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:32:27.604Z"
+              "WhenOpened": "2025-10-08T11:32:27.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 25,
               "Title": "RemnantRequest.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\RemnantRequest.cs",
               "RelativeDocumentMoniker": "Contracts\\RemnantRequest.cs",
@@ -601,11 +568,12 @@
               "RelativeToolTip": "Contracts\\RemnantRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:31:28.589Z"
+              "WhenOpened": "2025-10-08T11:31:28.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 26,
               "Title": "RemnantResponse.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\RemnantResponse.cs",
               "RelativeDocumentMoniker": "Contracts\\RemnantResponse.cs",
@@ -613,11 +581,12 @@
               "RelativeToolTip": "Contracts\\RemnantResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:30:57.528Z"
+              "WhenOpened": "2025-10-08T11:30:57.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 22,
               "Title": "StockController.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Controllers\\StockController.cs",
               "RelativeDocumentMoniker": "Controllers\\StockController.cs",
@@ -625,11 +594,12 @@
               "RelativeToolTip": "Controllers\\StockController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:28:26.921Z"
+              "WhenOpened": "2025-10-08T11:28:26.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 31,
               "Title": "ProductsResponse.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\ProductsResponse.cs",
               "RelativeDocumentMoniker": "Contracts\\ProductsResponse.cs",
@@ -637,11 +607,25 @@
               "RelativeToolTip": "Contracts\\ProductsResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:21:45.907Z"
+              "WhenOpened": "2025-10-08T07:21:45.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
+              "Title": "NomenclatureResponse.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\NomenclatureResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\NomenclatureResponse.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\NomenclatureResponse.cs",
+              "RelativeToolTip": "Contracts\\NomenclatureResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:16:34.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "NomenclatureRequest.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\NomenclatureRequest.cs",
               "RelativeDocumentMoniker": "Contracts\\NomenclatureRequest.cs",
@@ -649,11 +633,12 @@
               "RelativeToolTip": "Contracts\\NomenclatureRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:16:59.981Z"
+              "WhenOpened": "2025-10-08T11:16:59.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 28,
               "Title": "StockRequest.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\StockRequest.cs",
               "RelativeDocumentMoniker": "Contracts\\StockRequest.cs",
@@ -661,11 +646,12 @@
               "RelativeToolTip": "Contracts\\StockRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:28:14.132Z"
+              "WhenOpened": "2025-10-08T11:28:14.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 27,
               "Title": "StockResponse.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Contracts\\StockResponse.cs",
               "RelativeDocumentMoniker": "Contracts\\StockResponse.cs",
@@ -673,11 +659,12 @@
               "RelativeToolTip": "Contracts\\StockResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:27:59.93Z"
+              "WhenOpened": "2025-10-08T11:27:59.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
               "Title": "StockService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\StockService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\StockService.cs",
@@ -685,11 +672,12 @@
               "RelativeToolTip": "..\\TmkStore.Application\\Services\\StockService.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:29:13.754Z"
+              "WhenOpened": "2025-10-08T11:29:13.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 33,
               "Title": "IStockService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IStockService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IStockService.cs",
@@ -697,11 +685,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IStockService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:28:47.661Z"
+              "WhenOpened": "2025-10-08T11:28:47.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "IRemnantRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IRemnantRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IRemnantRepository.cs",
@@ -709,11 +698,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IRemnantRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:23:19.607Z"
+              "WhenOpened": "2025-10-08T11:23:19.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "IPriceRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IPriceRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IPriceRepository.cs",
@@ -721,11 +711,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IPriceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:23:14.504Z"
+              "WhenOpened": "2025-10-08T11:23:14.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "IProductsRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IProductsRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IProductsRepository.cs",
@@ -733,11 +724,25 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IProductsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:57:08.815Z"
+              "WhenOpened": "2025-10-07T23:57:08.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 34,
+              "Title": "NomenclatureService.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\NomenclatureService.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\NomenclatureService.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\NomenclatureService.cs",
+              "RelativeToolTip": "..\\TmkStore.Application\\Services\\NomenclatureService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:21:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "INomenclatureService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\INomenclatureService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\INomenclatureService.cs",
@@ -745,11 +750,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\INomenclatureService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:24:34.291Z"
+              "WhenOpened": "2025-10-08T11:24:34.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "INomenclatureRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\INomenclatureRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\INomenclatureRepository.cs",
@@ -757,11 +763,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\INomenclatureRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:55:13.968Z"
+              "WhenOpened": "2025-10-08T10:55:13.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "IProductsService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Core\\Abstractions\\IProductsService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Core\\Abstractions\\IProductsService.cs",
@@ -769,11 +776,12 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Abstractions\\IProductsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:14:19.998Z"
+              "WhenOpened": "2025-10-08T07:14:19.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "NomenclatureController.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Controllers\\NomenclatureController.cs",
               "RelativeDocumentMoniker": "Controllers\\NomenclatureController.cs",
@@ -781,11 +789,12 @@
               "RelativeToolTip": "Controllers\\NomenclatureController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:17:33.284Z"
+              "WhenOpened": "2025-10-08T11:17:33.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "PipeTypeEntity.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\PipeTypeEntity.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Entities\\PipeTypeEntity.cs",
@@ -793,11 +802,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\PipeTypeEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:08:59.319Z"
+              "WhenOpened": "2025-10-08T11:08:59.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "ProductsService.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\Services\\ProductsService.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.Application\\Services\\ProductsService.cs",
@@ -805,11 +815,12 @@
               "RelativeToolTip": "..\\TmkStore.Application\\Services\\ProductsService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:04:45.792Z"
+              "WhenOpened": "2025-10-08T07:04:45.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "StockRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\StockRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Repositories\\StockRepository.cs",
@@ -817,11 +828,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Repositories\\StockRepository.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAMwHQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:03:52.074Z"
+              "WhenOpened": "2025-10-08T11:03:52.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStoreAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -829,11 +841,12 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T07:18:09.12Z"
+              "WhenOpened": "2025-10-08T07:18:09.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "PipeTypeConfiguration.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\PipeTypeConfiguration.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Configurations\\PipeTypeConfiguration.cs",
@@ -841,11 +854,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\PipeTypeConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:09:24.273Z"
+              "WhenOpened": "2025-10-08T11:09:24.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "PriceConfiguration.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\PriceConfiguration.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Configurations\\PriceConfiguration.cs",
@@ -853,11 +867,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\PriceConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:06:29.186Z"
+              "WhenOpened": "2025-10-08T11:06:29.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "PriceEntity.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\PriceEntity.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Entities\\PriceEntity.cs",
@@ -865,11 +880,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\PriceEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:06:00.818Z"
+              "WhenOpened": "2025-10-08T11:06:00.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "StockConfiguration.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\StockConfiguration.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Configurations\\StockConfiguration.cs",
@@ -877,11 +893,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\StockConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:03:35.818Z"
+              "WhenOpened": "2025-10-08T11:03:35.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "RemnantRepository.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Repositories\\RemnantRepository.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Repositories\\RemnantRepository.cs",
@@ -889,11 +906,12 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Repositories\\RemnantRepository.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAAAewJUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:58:38.795Z"
+              "WhenOpened": "2025-10-08T10:58:38.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 51,
               "Title": "StockEntity.cs",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\StockEntity.cs",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Entities\\StockEntity.cs",
@@ -901,7 +919,34 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\StockEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:03:23.193Z"
+              "WhenOpened": "2025-10-08T11:03:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RemnantConfiguration.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
+              "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\RemnantConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:57:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RemnantEntity.cs",
+              "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
+              "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
+              "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
+              "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\RemnantEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:57:24.126Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -913,7 +958,8 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\NomenclatureEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:52:32.69Z"
+              "WhenOpened": "2025-10-08T10:52:32.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -925,7 +971,8 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Entities\\ProductEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:42:04.566Z"
+              "WhenOpened": "2025-10-07T21:42:04.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -937,7 +984,8 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\NomenclatureConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:53:04.425Z"
+              "WhenOpened": "2025-10-08T10:53:04.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -949,7 +997,8 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Migrations\\TmkStoreDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:46:13.573Z"
+              "WhenOpened": "2025-10-08T10:46:13.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -961,7 +1010,8 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Models\\Stock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:42:36.087Z"
+              "WhenOpened": "2025-10-08T10:42:36.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -973,7 +1023,8 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Models\\Remnant.cs",
               "ViewState": "AgIAACIAAAAAAAAAAADwvxAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T10:41:52.201Z"
+              "WhenOpened": "2025-10-08T10:41:52.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -985,7 +1036,8 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Configurations\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:44:04.571Z"
+              "WhenOpened": "2025-10-07T21:44:04.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -997,7 +1049,8 @@
               "RelativeToolTip": "..\\TmkStore.DataAccess\\Repositories\\ProductsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:49:20.203Z"
+              "WhenOpened": "2025-10-07T21:49:20.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1009,7 +1062,8 @@
               "RelativeToolTip": "..\\TmkStore.Core\\Models\\Product.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T21:27:33.756Z"
+              "WhenOpened": "2025-10-07T21:27:33.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1021,19 +1075,21 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-08T00:26:31.895Z"
+              "WhenOpened": "2025-10-08T00:26:31.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 66,
-              "Title": "TmkStore.DataAccess.csproj",
+              "Title": "TmkStore.DataAccess",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj",
               "RelativeDocumentMoniker": "..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj",
               "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj",
               "RelativeToolTip": "..\\TmkStore.DataAccess\\TmkStore.DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T09:16:54.478Z"
+              "WhenOpened": "2025-10-08T09:16:54.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1045,7 +1101,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-08T00:26:23.429Z"
+              "WhenOpened": "2025-10-08T00:26:23.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1057,19 +1114,21 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-10-08T00:28:21.064Z"
+              "WhenOpened": "2025-10-08T00:28:21.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 67,
-              "Title": "TmkStore.Application.csproj",
+              "Title": "TmkStore.Application",
               "DocumentMoniker": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\TmkStore.Application.csproj",
               "RelativeDocumentMoniker": "..\\TmkStore.Application\\TmkStore.Application.csproj",
               "ToolTip": "D:\\projects\\tmk-web-app\\backend\\TmkStore.Application\\TmkStore.Application.csproj",
               "RelativeToolTip": "..\\TmkStore.Application\\TmkStore.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T09:17:06.778Z"
+              "WhenOpened": "2025-10-08T09:17:06.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1081,7 +1140,8 @@
               "RelativeToolTip": "..\\TmkStore.Core\\TmkStore.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-07T21:25:45.311Z"
+              "WhenOpened": "2025-10-07T21:25:45.311Z",
+              "EditorCaption": ""
             }
           ]
         }
