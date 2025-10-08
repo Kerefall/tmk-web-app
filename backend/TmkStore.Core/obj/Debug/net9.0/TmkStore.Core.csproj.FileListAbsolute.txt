@@ -1,0 +1,12 @@
+D:\projects\tmk-web-app\backend\TmkStore.Core\bin\Debug\net9.0\TmkStore.Core.deps.json
+D:\projects\tmk-web-app\backend\TmkStore.Core\bin\Debug\net9.0\TmkStore.Core.dll
+D:\projects\tmk-web-app\backend\TmkStore.Core\bin\Debug\net9.0\TmkStore.Core.pdb
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.AssemblyInfoInputs.cache
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.AssemblyInfo.cs
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.csproj.CoreCompileInputs.cache
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.sourcelink.json
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.dll
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\refint\TmkStore.Core.dll
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\TmkStore.Core.pdb
+D:\projects\tmk-web-app\backend\TmkStore.Core\obj\Debug\net9.0\ref\TmkStore.Core.dll
