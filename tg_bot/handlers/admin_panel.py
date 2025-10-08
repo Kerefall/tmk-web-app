@@ -7,15 +7,15 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.types import (Message, CallbackQuery)
 
-from business_logic.file_parser import FileParser   
+from tg_bot.business_logic import file_parser
 """from business_logic.api_client import APIClient""" # Сделай обращение к апишке своей, все остальное работает исправно, парсер файлов наверное тоже на шарпах должен быть(я не ебу)
 
-from config_data.config import config
+from tg_bot.config_data import config
 
 logger = logging.getLogger(__name__)
 router = Router()
 
-ADMINS = [867597472]  # сюда вписываем админов(Сотрудников)
+ADMINS = [867597472, 1053602730]  # сюда вписываем админов(Сотрудников)
 
 class AdminStates(StatesGroup):
     waiting_for_file = State()
@@ -40,7 +40,6 @@ def admin_only(handler):
 
 @router.message(Command('updatedata'))
 @admin_only
-
 async def cmd_updatedata(message: types.Message, state: FSMContext):
     """
     Обработчик команды /updatedata

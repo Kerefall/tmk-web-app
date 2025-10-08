@@ -1,0 +1,16 @@
+D:\projects\tmk-web-app\backend\TmkStore.Application\bin\Debug\net9.0\TmkStore.Application.deps.json
+D:\projects\tmk-web-app\backend\TmkStore.Application\bin\Debug\net9.0\TmkStore.Application.dll
+D:\projects\tmk-web-app\backend\TmkStore.Application\bin\Debug\net9.0\TmkStore.Application.pdb
+D:\projects\tmk-web-app\backend\TmkStore.Application\bin\Debug\net9.0\TmkStore.Core.dll
+D:\projects\tmk-web-app\backend\TmkStore.Application\bin\Debug\net9.0\TmkStore.Core.pdb
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.csproj.AssemblyReference.cache
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.AssemblyInfoInputs.cache
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.AssemblyInfo.cs
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.csproj.CoreCompileInputs.cache
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.sourcelink.json
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.3425B018.Up2Date
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.dll
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\refint\TmkStore.Application.dll
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\TmkStore.Application.pdb
+D:\projects\tmk-web-app\backend\TmkStore.Application\obj\Debug\net9.0\ref\TmkStore.Application.dll

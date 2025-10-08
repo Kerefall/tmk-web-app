@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using TmkStore.Application.Services;
+using TmkStore.Core.Abstractions;
 using TmkStore.DataAccess;
+using TmkStore.DataAccess.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +20,23 @@ builder.Services.AddDbContext<TmkStoreDbContext>(
         }
     );
 
+// Register Repositories
+builder.Services.AddScoped<IProductsRepository, ProductsRepository>();
+builder.Services.AddScoped<INomenclatureRepository, NomenclatureRepository>();
+builder.Services.AddScoped<IPipeTypeRepository, PipeTypeRepository>();
+builder.Services.AddScoped<IStockRepository, StockRepository>();
+builder.Services.AddScoped<IRemnantRepository, RemnantRepository>();
+builder.Services.AddScoped<IPriceRepository, PriceRepository>();
+
+// Register Services
+builder.Services.AddScoped<IProductsService, ProductsService>();
+builder.Services.AddScoped<INomenclatureService, NomenclatureService>();
+builder.Services.AddScoped<IPipeTypeService, PipeTypeService>();
+builder.Services.AddScoped<IStockService, StockService>();
+builder.Services.AddScoped<IRemnantService, RemnantService>();
+builder.Services.AddScoped<IPriceService, PriceService>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,5 +51,12 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors(x =>
+{
+    x.WithHeaders().AllowAnyHeader();
+    x.WithOrigins("http://localhost:3000");
+    x.WithMethods().AllowAnyMethod();
+});
 
 app.Run();

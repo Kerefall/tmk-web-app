@@ -11,6 +11,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.9">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="9.0.6" />
@@ -18,6 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TmkStore.Application\TmkStore.Application.csproj" />
+    <ProjectReference Include="..\TmkStore.Core\TmkStore.Core.csproj" />
     <ProjectReference Include="..\TmkStore.DataAccess\TmkStore.DataAccess.csproj" />
   </ItemGroup>
 

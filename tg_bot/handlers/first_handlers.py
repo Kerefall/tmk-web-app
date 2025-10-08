@@ -6,6 +6,7 @@ from aiogram.types import (Message, InlineKeyboardMarkup,
 
 router = Router()
 
+
 @router.message(CommandStart())
 async def command_start(message: Message):
     open_webapp_button = InlineKeyboardButton(
